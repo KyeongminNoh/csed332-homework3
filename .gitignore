@@ -1,0 +1,13 @@
+### Eclipse ###
+.classpath
+.settings/
+.project
+
+### mac OS ###
+.DS_Store
+
+### Maven ###
+target/
+
+### Project ###
+out.txt

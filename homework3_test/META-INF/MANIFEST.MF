@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Homework3_test
+Bundle-SymbolicName: homework3_test
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: homework3_test.Activator
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime,
+ org.eclipse.swtbot.go;bundle-version="2.6.0"
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-ActivationPolicy: lazy
